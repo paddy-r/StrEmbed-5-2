@@ -5,6 +5,7 @@ Version 5-2 of Structure Embedding
 Part of the Design Configuration Spaces project hosted by the University of Leeds
 
 Hugh Rice (HR/HPR), Tom Hazlehurst (TH) and Hau Hing Chau (HHC)
+
 January-March 2020
 
 School of Mechanical Engineering  
