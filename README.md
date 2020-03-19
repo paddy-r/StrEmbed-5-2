@@ -26,6 +26,6 @@ It is recommended that you download the entire folder. STEP files are used for d
 
 StrEmbed-5-2 was developed in Spyder, an IDE for packaged with the Anaconda distribution, which can be downloaded [here](https://www.anaconda.com/distribution/).
 
-A users' manual is provided, and tutorials are available via Google Colab [here](https://colab.research.google.com).
+A users' manual is provided, and the software can also be run via Google Colab [here](https://colab.research.google.com).
 
 StrEmbed-5-2 is published under the GNU General Purpose License version 3, which is given in the LICENSE document.
