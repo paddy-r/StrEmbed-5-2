@@ -24,6 +24,6 @@ Two scripts are required:
 
 It is recommended that you download the entire folder, which contains a users' manual. STEP files are used for data transfer and several examples are provided in the 'Examples / Models' folder. In addition, for the torch example, part images are given in the 'Images' folder, where image names correspond to their product definitions in the STEP file; they are currently pre-rendered but will be generated automatically in the next version.
 
-StrEmbed-5-2 was developed in Spyder, an IDE for packaged with the Anaconda distribution, which can be downloaded [here](https://www.anaconda.com/distribution/).
+StrEmbed-5-2 was developed in Spyder, an IDE for Python that is packaged with the Anaconda distribution, which can be downloaded [here](https://www.anaconda.com/distribution/).
 
 StrEmbed-5-2 is published under the GNU General Purpose License version 3, which is given in the LICENSE document.
