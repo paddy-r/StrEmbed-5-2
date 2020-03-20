@@ -22,10 +22,8 @@ Two scripts are required:
 1. StrEmbed_5_2
 2. step_parse_5_2
 
-It is recommended that you download the entire folder. STEP files are used for data transfer and several examples are provided in the 'Examples / Models' folder. In addition, for the torch example, part images are given in the 'Images' folder, where image names correspond to their product definitions in the STEP file; they are currently pre-rendered but will be generated automatically in the next version.
+It is recommended that you download the entire folder, which contains a users' manual. STEP files are used for data transfer and several examples are provided in the 'Examples / Models' folder. In addition, for the torch example, part images are given in the 'Images' folder, where image names correspond to their product definitions in the STEP file; they are currently pre-rendered but will be generated automatically in the next version.
 
 StrEmbed-5-2 was developed in Spyder, an IDE for packaged with the Anaconda distribution, which can be downloaded [here](https://www.anaconda.com/distribution/).
-
-A users' manual is provided, and the software can also be run via Google Colab [here](https://colab.research.google.com) and does not require any downloads or installations.
 
 StrEmbed-5-2 is published under the GNU General Purpose License version 3, which is given in the LICENSE document.
